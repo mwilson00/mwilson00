@@ -24,4 +24,3 @@ Semester long project written in Java where I learned Java and various software 
 Over my summer internship I was the sole ntern responsible for cleaning data and creating a tableau dashboard for a cross-divisional team pilot project comparing student engagement with freshman retention!
 
 ### 👩🏼‍💻 Other various school projects visible in my repositories
-Includes 
