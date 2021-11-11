@@ -13,6 +13,14 @@ I have a working knowledge in various skills:
 - MS Suite
 - Catapult Sports
 
+## Relevent Course Work
+- Software Development Foundations
+- Introduction to Software Engineering
+- Data Structures & Algorithms
+- Discrete Structures for Computing
+- Applied Data Science
+- Problem Solving with Office Applications
+
 ## Projects
 ### 🏈 Soreness Dashboard
 Created a Tableau Dashboard and integrated Excel document to breakdown team soreness by body part to aid in weekly soreness report supplied to coaches. 
